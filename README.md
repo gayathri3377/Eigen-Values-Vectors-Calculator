@@ -5,9 +5,9 @@
 The Eigenvalues and Eigenvectors Calculator with Tkinter is a Python application that provides an interactive interface to calculate the eigenvalues and eigenvectors of a 3x3 matrix using the Jacobi method.The inspiration for this project stemmed from my coursework in Computational Physics.
 
 <div style="display:flex; justify-content:space-around;">
-    <img src="https://github.com/gayathri3377/Movies-App/assets/152592583/a77af675-c839-46ab-b1ac-f5afe5588e74" alt="Display" style="width:200px;">
-    <img src="https://github.com/gayathri3377/Movies-App/assets/152592583/72b5c17d-4953-4585-9c6a-7de38cd27e00" alt="Result" style="width:200px;">
-    <img src="https://github.com/gayathri3377/Movies-App/assets/152592583/c62b3103-a9b7-4309-ad01-8c536ecae3aa" alt="Error" style="width:200px;">
+    <img src="https://github.com/gayathri3377/Movies-App/assets/152592583/87a6fe8a-0d8b-41dd-8218-c220630e444a" alt="Display" style="width:200px;">
+    <img src="https://github.com/gayathri3377/Movies-App/assets/152592583/c0c11c48-7a39-4a0f-a959-b70b3b99991e" alt="Result" style="width:200px;">
+    <img src="https://github.com/gayathri3377/Movies-App/assets/152592583/48289a73-84ad-4dbb-9555-344ea1ae0116" alt="Error" style="width:200px;">
 </div>
 
 ## Features
